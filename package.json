@@ -1,0 +1,26 @@
+{
+  "name": "mernbackend",
+  "version": "1.0.0",
+  "description": "These are the files of our project 'Helping Angels' whose project number is 12, This project is developed by our team, Our team contains Saksham Pandey Enrollment Number 201B231 , Shivendra Jat Enrollment Number 201B256, and Jyoti Kumari Enrollment Number 201B342.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.js -e js,hbs,css"
+  },
+  "keywords": [],
+  "author": "Shivendra Jat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHIVENDRA8004/HelpingAngels.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SHIVENDRA8004/HelpingAngels/issues"
+  },
+  "homepage": "https://github.com/SHIVENDRA8004/HelpingAngels#readme"
+}
